@@ -1,0 +1,16 @@
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\Comboboxproject.exe.config
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\Comboboxproject.exe
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\Comboboxproject.pdb
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\mscorlib.dll
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\ru\mscorlib.resources.dll
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\normidna.nlp
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\normnfc.nlp
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\normnfd.nlp
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\normnfkc.nlp
+D:\lamecplus\Comboboxproject\Comboboxproject\bin\Debug\normnfkd.nlp
+D:\lamecplus\Comboboxproject\Comboboxproject\obj\Debug\Comboboxproject.csprojResolveAssemblyReference.cache
+D:\lamecplus\Comboboxproject\Comboboxproject\obj\Debug\Comboboxproject.Form1.resources
+D:\lamecplus\Comboboxproject\Comboboxproject\obj\Debug\Comboboxproject.Properties.Resources.resources
+D:\lamecplus\Comboboxproject\Comboboxproject\obj\Debug\Comboboxproject.csproj.GenerateResource.Cache
+D:\lamecplus\Comboboxproject\Comboboxproject\obj\Debug\Comboboxproject.exe
+D:\lamecplus\Comboboxproject\Comboboxproject\obj\Debug\Comboboxproject.pdb
